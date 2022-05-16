@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652740594 source:e:\codeblocks\cursada_2022\repaso-parcial\stocki.alex.progi.p1\funciones.c
+	"funciones.h"
+
+1652740047 e:\codeblocks\cursada_2022\repaso-parcial\stocki.alex.progi.p1\funciones.h
+
+1652740667 source:e:\codeblocks\cursada_2022\repaso-parcial\stocki.alex.progi.p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
